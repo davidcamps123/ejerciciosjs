@@ -1,0 +1,26 @@
+.div1{
+    display: flex;
+  
+    margin: 10px;
+    border: 1px solid;
+   
+    align-items: center;
+    justify-content: center;
+}
+div{
+    width: 400px;
+    padding: 20px;
+  
+}
+h2{
+    text-align: center;
+}
+input{
+    width: 25px;
+    height: 25px;
+}
+button{
+    padding: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
