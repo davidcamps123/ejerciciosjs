@@ -1,0 +1,73 @@
+
+button{
+    
+    background-position: center;
+    width: 40px;
+    margin-left: 3px;
+    margin-right: 1px;
+    height: 40px;
+    background-size: cover;
+   border: none;
+    text-align: center;
+}
+button:hover{
+    cursor: pointer;
+}
+#jay{
+    margin-top: 40px;
+}
+.kikds{
+    margin-left: 100px;
+    width: 100px;
+    height: 100px;
+    padding: 10px;
+    border: 1px solid;
+}
+#magia{
+    height: 100px;
+}
+#btnPapel{
+    background-image: url(./papel.png);    
+}
+#btnTijera{
+background-image: url(./tijera.png);
+}
+#btnRoca{
+    background-image: url(./piedra.png);
+}
+#koka{
+    display: none;
+}
+#primerodiv{
+    display: flex;
+    align-items: center;
+    
+    width: 300px;
+    margin-left: 94px;
+
+    margin-top: 10px;
+}
+#jugar{
+    border: 2px solid;
+    width: 100px;
+    height: 40px;
+    border-radius: 8%;
+}
+#jugar:hover{
+    cursor: pointer;
+    background-color: red;
+}
+h2{
+    margin-left: 5px;
+}
+.koka22{
+    margin-left: 5px;
+    padding: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+p{
+    font-size: 20px;
+}
