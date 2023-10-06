@@ -1,0 +1,50 @@
+.calculator {
+    width: 400px;
+
+    margin: 0 auto;
+    text-align: center;
+    background-color: rgb(57 70 102);
+    padding: 20px;
+    border-radius: 10px;
+  }
+.calculator1{
+    background-color: rgb(36 47 65);
+   
+    border-radius: 10px;
+}
+#tsamina{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 20px;
+}
+  input[type="text"] {
+    width: 85%;
+    height: 75px;
+    font-size: 20px;
+    text-align: right;
+ 
+    border: none;
+    border-radius: 5px;
+    font-size: 35px;
+    padding-right: 10px;
+   background-color: rgb(25 32 51); 
+   color: white;
+  }
+  #igual1{
+    background-color: rgb(209 63 50)!important;
+  }
+
+  button {
+    width: 70px;
+    height: 70px;
+    font-size: 20px;
+    margin: 10px;
+    border: none;
+    border-radius: 5px;
+    background-color: white;
+  }
+
+  button:hover {
+    cursor: pointer;
+  }

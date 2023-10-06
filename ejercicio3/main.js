@@ -50,6 +50,7 @@ document.addEventListener("DOMContentLoaded", function () {
 
 
     }
+    
     function morveto2() {
         if (arrayTijeraPapelPiedra[numero] == "✊") {
             document.getElementById("laotra").src = "./piedra.png";

@@ -1,0 +1,16 @@
+.kiks{
+    width: 800px;
+    height: 800px;
+   display: flex;
+    /*transform: rotate();*/
+}
+#jujd{
+    font-size: 100px;
+}
+.gtr{
+    height: 800px;
+}
+.interruptor{
+    width: 100px;
+    height: 100px;
+}
