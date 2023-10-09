@@ -28,6 +28,11 @@ body{
     left: 69%;
     top: 14%;
 }
+#divGeneralLuchar{
+    background-color: transparent;
+    left: 13%;
+    top: 61%;
+}
 
 #imagen{
     width: 110px;
@@ -46,9 +51,25 @@ svg{
     stroke: lightgray;
     fill: none;
 }
+.imagenesImpo{
+    position: absolute;
+    width: 50%;
+    display: flex;
+    justify-content: space-around;
+    top: 2%;
+}
+#divGeneralDormir{
+    left: 69%;
+    top: 56%;
+    background-color: transparent;
+}
+
+#imG{
+    left: 50%;
+}
 #divComida{
-    left: 13%;
-    top: 14%;
+   
+    top: 16%;
     text-align: center;
 }
 #divJugar{
@@ -62,12 +83,12 @@ svg{
     
 }
 #divLuchar{
-    left: 13%;
-    top: 66%;
+  
+    top: 16%;
 }
 #divDormir{
-    left: 69%;
-    top: 66%;
+   top: 15%;
+    
 }
 .divTextos{
     position: absolute;
@@ -75,8 +96,12 @@ svg{
     
 }
 .imagenes{
-    width: 160px;
-    height: 160px;
+    width: 190px;
+    height: 130px;
+}
+.imagenes1{
+    width: 70px;
+    height: 70px;
 }
 .koka{
   border: none;
