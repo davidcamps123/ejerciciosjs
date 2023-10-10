@@ -60,13 +60,23 @@ svg{
 }
 #divGeneralDormir{
     left: 69%;
-    top: 56%;
+    top: 60%;
     background-color: transparent;
 }
 
 #imG{
     left: 50%;
 }
+#imG1{
+    top: 53%;
+    left: 50%;
+    justify-content: space-around;
+}
+#imG2{
+    top: 53%;
+    justify-content: space-around;
+}
+
 #divComida{
    
     top: 16%;
@@ -100,8 +110,8 @@ svg{
     height: 130px;
 }
 .imagenes1{
-    width: 70px;
-    height: 70px;
+    width: 50px;
+    height: 50px;
 }
 .koka{
   border: none;
